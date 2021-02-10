@@ -1,5 +1,5 @@
 # OVM_Intro
-small introduction to Optimistic rollups based on a basic ERC20 exemple
+Small introduction to Optimistic rollups based on a basic ERC20 example
 
 Setting - up the project on your desktop : 
 
